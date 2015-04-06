@@ -1,0 +1,1 @@
+A Java WebSocket server that listens for positional information being sent by instances of the [position-streamer](https://github.com/tombooth/position-streamer) iOS app. This app will listen to changes in the position and motion of the device, process these changes and convert them into MIDI signals.
